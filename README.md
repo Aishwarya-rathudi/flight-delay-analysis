@@ -125,5 +125,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 **Author:** Aishwarya Rathudi  
-**GitHub:** (https://github.com/aishwarya.rathudi)
+**GitHub:** (https://github.com/Aishwarya-rathudi)
 **Tableau Public:** [Aishwarya's Profile](https://public.tableau.com/app/profile/aishwarya.rathudi)
