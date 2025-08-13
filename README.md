@@ -119,11 +119,6 @@ The dashboard is interactive, allowing users to drill down by **state, airline, 
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 **Author:** Aishwarya Rathudi  
 **GitHub:** (https://github.com/Aishwarya-rathudi)
 **Tableau Public:** [Aishwarya's Profile](https://public.tableau.com/app/profile/aishwarya.rathudi)
